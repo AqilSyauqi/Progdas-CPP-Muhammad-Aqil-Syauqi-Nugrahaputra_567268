@@ -3,6 +3,9 @@
 # Nama Lengkap
 **Muhammad Aqil Syauqi Nugrahaputra**
 
+# Program Studi
+**teknik Elektro**
+
 # NIM
 **25/567268/TK/63994**
 
