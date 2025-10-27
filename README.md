@@ -1,6 +1,4 @@
-# Program-CPP-Muhammad-Aqil-Syauqi-Nugrahaputra_Hyperion_TLS25
-Tugas Pemrograman 2 TLS 2025
-# Program-CPP-MuhammadAqilSyauqiNugrahaputra_Hyperion_TLS25
+# Progdas-CPP-Muhammad-Aqil-Syauqi-Nugrahaputra_567268
 
 # Nama Lengkap
 **Muhammad Aqil Syauqi Nugrahaputra**
